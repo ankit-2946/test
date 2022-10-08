@@ -2,6 +2,8 @@ Github-Acc
 //ankitpal2946@gmail.com
 AnkitP@$9718927822
 User-Name: ankit-2946//
+git config --global user.name "ankit-2946"
+
 
 //To Convert a normal folder into a git repository we need to
 1. git config -- global
