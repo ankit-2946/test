@@ -1,0 +1,20 @@
+Github-Acc
+//ankitpal2946@gmail.com
+AnkitP@$9718927822
+User-Name: ankit-2946//
+
+//To Convert a normal folder into a git repository we need to
+1. git config -- global
+2. git init
+3. git add .
+4. git commit -m "message"
+5. 
+
+
+// Everytime you make any changes and want to keep record of these changes. execute command 2 and 3.
+
+// To see all the records
+1. git log
+
+// At anytime, if you want to see what changes you've done in any file
+1.git status
