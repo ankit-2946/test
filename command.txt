@@ -13,6 +13,9 @@ git config --global user.name "ankit-2946"
 5. 
 
 
+//Local Host to transfar
+1. git push origin main
+
 // Everytime you make any changes and want to keep record of these changes. execute command 2 and 3.
 
 // To see all the records

@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+   }
+.header{
+    min-height: 100vh;
+    width: 100;
+    /* background-image: linear-gradient(rgba(4,9,30,0.5), rgba(4,9,30,0.5)), url(Images/Zom.jpg); */
+}
+nav{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    margin-top: 4%;
+    width: 100px;
+    display: flex;
+    padding-left: 2%;
+}
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+.nav-links{
+    list-style: none;
+    display: inline;
+    padding: 8px 12px;
+    position: relative;
+}
+.nav-links ul li a{
+    color: rgb(46, 15, 245);
+    text-decoration: none;
+    font-size: 18px;
+    display: inline;
+} 
+.nav-links ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background-color: #f44336;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.nav-links ul li:hover::after{
+    background-color: #f44336;
+    width: 100%;
+}
