@@ -4,6 +4,15 @@ AnkitP@$9718927822
 User-Name: ankit-2946//
 git config --global user.name "ankit-2946"
 
+Ayush
+https://github.com/Ayush-projects
+
+
+Inf
+https://app.netlify.com/signup/start
+Github
+https://github.com/ankit-2946/test
+
 
 //To Convert a normal folder into a git repository we need to
 1. git config -- global
@@ -18,8 +27,27 @@ git config --global user.name "ankit-2946"
 
 // Everytime you make any changes and want to keep record of these changes. execute command 2 and 3.
 
-// To see all the records
+// To see all the records (Check all records)
 1. git log
 
-// At anytime, if you want to see what changes you've done in any file
-1.git status
+// At anytime, if you want to see what changes you've done in any file (un track file show)
+1. git status
+
+
+// IP address
+whatispublicip
+
+//Block Link
+https://ayush-addhyan.medium.com/how-does-the-internet-works-8709d3980cba
+
+//09-10-2022
+------------
+//Teminal --> open --> Command
+
+//pull to other file
+1. git pull origin main
+
+//Push to all file
+1. git push origin main
+
+//
